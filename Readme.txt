@@ -51,5 +51,5 @@ A web service interface that follow RESTful services guidelines written in Pytho
   
  2.2 Architecture
  ----------------
- 
+   - The application follows the REST architecture, I just implemented the Post method for the sake of the project and due to limited time
  
